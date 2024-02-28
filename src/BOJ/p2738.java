@@ -9,9 +9,9 @@ public class p2738 {
     public static void main(String[] args) throws IOException {
         // 행렬 덧셈
         BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
-        StringTokenizer st = new StringTokenizer(bf.readLine());
-        int n = Integer.parseInt(st.nextToken()); // n:3
-        int m = Integer.parseInt(st.nextToken()); // m:3
+        StringTokenizer st = new StringTokenizer(bf.readLine(), " ");
+        int n = Integer.parseInt(st.nextToken());
+        int m = Integer.parseInt(st.nextToken());
         int[][] a = new int[n][m];
         int[][] b = new int[n][m];
         int[][] rst = new int[n][m];
