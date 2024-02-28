@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26c02835-9954-4a7a-8117-fd695d2ed26d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/BOJ/p2743.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ/p2744.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/BOJ/p11654.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BOJ/p11654.java" afterDir="false" />
     </list>
@@ -41,6 +43,8 @@
     "Application.ex.executor": "Run",
     "Application.p11654.executor": "Run",
     "Application.p2738.executor": "Run",
+    "Application.p2743.executor": "Run",
+    "Application.p2744.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ShowUsagesActions.previewPropertyKey": "true",
@@ -69,16 +73,9 @@
       <command value="BufferedReader.java" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.p11654">
+  <component name="RunManager" selected="Application.p2744">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex" />
       <module name="algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -110,12 +107,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="p2743" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ.p2743" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BOJ.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p2744" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ.p2744" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BOJ.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.p2744" />
+        <item itemvalue="Application.p2743" />
         <item itemvalue="Application.p11654" />
         <item itemvalue="Application.p2738" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ex" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +161,7 @@
       <updated>1708414430919</updated>
       <workItem from="1708414432291" duration="3107000" />
       <workItem from="1708422865980" duration="3308000" />
-      <workItem from="1708496256831" duration="91160000" />
+      <workItem from="1708496256831" duration="93425000" />
     </task>
     <servers />
   </component>
