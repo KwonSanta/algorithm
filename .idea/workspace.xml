@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26c02835-9954-4a7a-8117-fd695d2ed26d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BOJ/p11718.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/stringReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ/p15964.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ/p9086.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,11 +42,15 @@
     "Application.ex.executor": "Run",
     "Application.p11654.executor": "Run",
     "Application.p11718.executor": "Run",
+    "Application.p15964 (1).executor": "Run",
+    "Application.p15964 (2).executor": "Run",
+    "Application.p15964.executor": "Run",
     "Application.p2738.executor": "Run",
     "Application.p2743.executor": "Run",
     "Application.p2744.executor": "Run",
     "Application.p2754.executor": "Run",
     "Application.p27866.executor": "Run",
+    "Application.p9086.executor": "Run",
     "Application.stringReverse.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -76,7 +80,7 @@
       <command value="BufferedReader.java" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.p11718">
+  <component name="RunManager" selected="Application.p15964 (2)">
     <configuration name="p11718" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BOJ.p11718" />
       <module name="algorithm" />
@@ -90,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p2744" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ.p2744" />
+    <configuration name="p15964 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ.p15964" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -103,8 +107,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p2754" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ.p2754" />
+    <configuration name="p15964 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ.p15964" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -116,8 +120,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p27866" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ.p27866" />
+    <configuration name="p15964" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ.p15964" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -129,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="stringReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmers.stringReverse" />
+    <configuration name="p9086" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ.p9086" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programmers.*" />
+          <option name="PATTERN" value="BOJ.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.p15964 (2)" />
+        <item itemvalue="Application.p15964 (1)" />
+        <item itemvalue="Application.p15964" />
+        <item itemvalue="Application.p9086" />
         <item itemvalue="Application.p11718" />
-        <item itemvalue="Application.stringReverse" />
-        <item itemvalue="Application.p27866" />
-        <item itemvalue="Application.p2754" />
-        <item itemvalue="Application.p2744" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +174,7 @@
       <updated>1708414430919</updated>
       <workItem from="1708414432291" duration="3107000" />
       <workItem from="1708422865980" duration="3308000" />
-      <workItem from="1708496256831" duration="101467000" />
+      <workItem from="1708496256831" duration="105252000" />
     </task>
     <servers />
   </component>
