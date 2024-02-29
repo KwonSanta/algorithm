@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26c02835-9954-4a7a-8117-fd695d2ed26d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BOJ/p2754.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ/p27866.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +43,7 @@
     "Application.p2743.executor": "Run",
     "Application.p2744.executor": "Run",
     "Application.p2754.executor": "Run",
+    "Application.p27866.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ShowUsagesActions.previewPropertyKey": "true",
@@ -72,22 +72,9 @@
       <command value="BufferedReader.java" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.p2754">
+  <component name="RunManager" selected="Application.p27866">
     <configuration name="p11654" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BOJ.p11654" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BOJ.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="p2738" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ.p2738" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -138,13 +125,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="p27866" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ.p27866" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BOJ.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.p27866" />
         <item itemvalue="Application.p2754" />
         <item itemvalue="Application.p2744" />
         <item itemvalue="Application.p2743" />
         <item itemvalue="Application.p11654" />
-        <item itemvalue="Application.p2738" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +166,7 @@
       <updated>1708414430919</updated>
       <workItem from="1708414432291" duration="3107000" />
       <workItem from="1708422865980" duration="3308000" />
-      <workItem from="1708496256831" duration="96641000" />
+      <workItem from="1708496256831" duration="96973000" />
     </task>
     <servers />
   </component>
