@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26c02835-9954-4a7a-8117-fd695d2ed26d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BOJ/p2743.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ/p2744.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ/p10818.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ/p11720.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ/p2562.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ/p2675.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BOJ/p11654.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BOJ/p11654.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,25 +42,30 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "Application.ex.executor": "Run",
+    "Application.p10818.executor": "Run",
     "Application.p11654.executor": "Run",
+    "Application.p2562.executor": "Run",
+    "Application.p2675.executor": "Run",
     "Application.p2738.executor": "Run",
     "Application.p2743.executor": "Run",
     "Application.p2744.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ShowUsagesActions.previewPropertyKey": "true",
+    "WebServerToolWindowFactoryState": "false",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/santa/Desktop/study/Algorithm/algorithm",
+    "last_opened_file_path": "C:/Users/mysto/Desktop/study/java/algorithm",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "/Users/santa/Desktop/study/Algorithm/algorithm/src/Main.java",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "settings.editor.splitter.proportion": "0.29969418",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -73,10 +79,16 @@
       <command value="BufferedReader.java" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.p2744">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+  <component name="RunManager" selected="Application.p10818">
+    <configuration name="p10818" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ.p10818" />
       <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BOJ.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -94,8 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p2738" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ.p2738" />
+    <configuration name="p2562" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ.p2562" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -107,8 +119,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p2743" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ.p2743" />
+    <configuration name="p2675" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ.p2675" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -135,19 +147,18 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.p2744" />
-        <item itemvalue="Application.p2743" />
+        <item itemvalue="Application.p10818" />
+        <item itemvalue="Application.p2675" />
+        <item itemvalue="Application.p2562" />
         <item itemvalue="Application.p11654" />
-        <item itemvalue="Application.p2738" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.p2744" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-11.0.16-jbr_dcevm-11.0.16-4caba194b151-fa76dab7" />
-        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-322ed176" />
+        <option value="jdk-11.0.22-corretto-11.0.22-4caba194b151-868cef46" />
       </set>
     </attachedChunks>
   </component>
@@ -162,6 +173,11 @@
       <workItem from="1708414432291" duration="3107000" />
       <workItem from="1708422865980" duration="3308000" />
       <workItem from="1708496256831" duration="93425000" />
+      <workItem from="1709284956571" duration="383000" />
+      <workItem from="1709285445088" duration="24000" />
+      <workItem from="1709285474810" duration="1795000" />
+      <workItem from="1709293255616" duration="990000" />
+      <workItem from="1709295907017" duration="8378000" />
     </task>
     <servers />
   </component>
