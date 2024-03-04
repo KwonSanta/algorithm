@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26c02835-9954-4a7a-8117-fd695d2ed26d" name="Changes" comment="p2475">
-      <change afterPath="$PROJECT_DIR$/src/BOJ/p1152.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ/p1157.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ/p2439.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ/p2577.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="26c02835-9954-4a7a-8117-fd695d2ed26d" name="Changes" comment="p2475" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -182,7 +176,7 @@
       <workItem from="1708414432291" duration="3107000" />
       <workItem from="1708422865980" duration="3308000" />
       <workItem from="1708496256831" duration="106361000" />
-      <workItem from="1709192470896" duration="19299000" />
+      <workItem from="1709192470896" duration="19599000" />
     </task>
     <task id="LOCAL-00001" summary="p2475">
       <option name="closed" value="true" />
