@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26c02835-9954-4a7a-8117-fd695d2ed26d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BOJ/p2475.java" afterDir="false" />
+    <list default="true" id="26c02835-9954-4a7a-8117-fd695d2ed26d" name="Changes" comment="p2475">
+      <change afterPath="$PROJECT_DIR$/src/BOJ/p1152.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ/p1157.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ/p2439.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ/p2577.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,12 +42,16 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "Application.ex.executor": "Run",
+    "Application.p1152.executor": "Run",
+    "Application.p1157.executor": "Run",
     "Application.p11654.executor": "Run",
     "Application.p11718.executor": "Run",
     "Application.p15964 (1).executor": "Run",
     "Application.p15964 (2).executor": "Run",
     "Application.p15964.executor": "Run",
+    "Application.p2439.executor": "Run",
     "Application.p2475.executor": "Run",
+    "Application.p2577.executor": "Run",
     "Application.p2738.executor": "Run",
     "Application.p2743.executor": "Run",
     "Application.p2744.executor": "Run",
@@ -80,9 +87,9 @@
       <command value="BufferedReader.java" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.p2475">
-    <configuration name="p15964 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ.p15964" />
+  <component name="RunManager" selected="Application.p2577">
+    <configuration name="p1152" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ.p1152" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -94,8 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p15964 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ.p15964" />
+    <configuration name="p1157" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ.p1157" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -107,8 +114,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p15964" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ.p15964" />
+    <configuration name="p2439" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ.p2439" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -133,8 +140,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p9086" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ.p9086" />
+    <configuration name="p2577" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ.p2577" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -148,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.p2577" />
+        <item itemvalue="Application.p2439" />
+        <item itemvalue="Application.p1157" />
+        <item itemvalue="Application.p1152" />
         <item itemvalue="Application.p2475" />
-        <item itemvalue="Application.p15964 (2)" />
-        <item itemvalue="Application.p15964 (1)" />
-        <item itemvalue="Application.p15964" />
-        <item itemvalue="Application.p9086" />
       </list>
     </recent_temporary>
   </component>
@@ -175,8 +182,17 @@
       <workItem from="1708414432291" duration="3107000" />
       <workItem from="1708422865980" duration="3308000" />
       <workItem from="1708496256831" duration="106361000" />
-      <workItem from="1709192470896" duration="3256000" />
+      <workItem from="1709192470896" duration="19299000" />
     </task>
+    <task id="LOCAL-00001" summary="p2475">
+      <option name="closed" value="true" />
+      <created>1709509140007</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709509140007</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,6 +208,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="p2475" />
+    <option name="LAST_COMMIT_MESSAGE" value="p2475" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
