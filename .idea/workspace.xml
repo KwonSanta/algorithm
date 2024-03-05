@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26c02835-9954-4a7a-8117-fd695d2ed26d" name="Changes" comment="p2475" />
+    <list default="true" id="26c02835-9954-4a7a-8117-fd695d2ed26d" name="Changes" comment="p2475">
+      <change afterPath="$PROJECT_DIR$/src/BOJ/p2884.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ/p2920.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ/p3052.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ/p8958.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +57,10 @@
     "Application.p2744.executor": "Run",
     "Application.p2754.executor": "Run",
     "Application.p27866.executor": "Run",
+    "Application.p2884.executor": "Run",
+    "Application.p2920.executor": "Run",
+    "Application.p3052.executor": "Run",
+    "Application.p8958.executor": "Run",
     "Application.p9086.executor": "Run",
     "Application.stringReverse.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -81,59 +91,7 @@
       <command value="BufferedReader.java" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.p2577">
-    <configuration name="p1152" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ.p1152" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BOJ.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="p1157" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ.p1157" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BOJ.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="p2439" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ.p2439" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BOJ.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="p2475" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ.p2475" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BOJ.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.p8958">
     <configuration name="p2577" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BOJ.p2577" />
       <module name="algorithm" />
@@ -147,13 +105,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="p2884" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ.p2884" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BOJ.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p2920" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ.p2920" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BOJ.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p3052" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ.p3052" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BOJ.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p8958" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ.p8958" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BOJ.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.p8958" />
+        <item itemvalue="Application.p3052" />
+        <item itemvalue="Application.p2920" />
+        <item itemvalue="Application.p2884" />
         <item itemvalue="Application.p2577" />
-        <item itemvalue="Application.p2439" />
-        <item itemvalue="Application.p1157" />
-        <item itemvalue="Application.p1152" />
-        <item itemvalue="Application.p2475" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +186,7 @@
       <workItem from="1708414432291" duration="3107000" />
       <workItem from="1708422865980" duration="3308000" />
       <workItem from="1708496256831" duration="106361000" />
-      <workItem from="1709192470896" duration="19599000" />
+      <workItem from="1709192470896" duration="44441000" />
     </task>
     <task id="LOCAL-00001" summary="p2475">
       <option name="closed" value="true" />
@@ -222,6 +232,11 @@
           <properties class="java.lang.NumberFormatException" package="java.lang" />
           <option name="timeStamp" value="18" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BOJ/p8958.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
