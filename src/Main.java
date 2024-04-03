@@ -1,9 +1,14 @@
-import java.io.*;
 import java.util.Arrays;
-import java.util.StringTokenizer;
+import java.util.Scanner;
 
 public class Main {
-    public static void main(String[] args) throws IOException {
+
+    class Calculator<T extends Number> {
+//        void add;
+    }
+
+    public static void main(String[] args) {
+
 
 
     }

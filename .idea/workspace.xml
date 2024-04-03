@@ -5,10 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26c02835-9954-4a7a-8117-fd695d2ed26d" name="Changes" comment="p2475">
-      <change afterPath="$PROJECT_DIR$/src/BOJ/p10250.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ/p10809.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ/class2/P2231.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ/class2/p1018.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ/class2/p1978.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ/class2/p2292.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ/class2/p2798.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ/class2/p4153.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/PascalTriangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BOJ/p8958.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BOJ/p8958.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BOJ/p10250.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BOJ/class1/p10250.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BOJ/p10809.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BOJ/class1/P10809.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BOJ/p10818.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BOJ/class1/p10818.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BOJ/p1152.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BOJ/class1/p1152.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BOJ/p1157.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BOJ/class1/p1157.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BOJ/p11654.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BOJ/class1/p11654.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BOJ/p11718.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BOJ/class1/p11718.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BOJ/p11720.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BOJ/class1/p11720.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BOJ/p15964.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BOJ/class1/p15964.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BOJ/p2439.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BOJ/class1/p2439.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BOJ/p2475.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BOJ/class1/p2475.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BOJ/p2562.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BOJ/class1/p2562.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BOJ/p2577.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BOJ/class1/p2577.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BOJ/p2675.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BOJ/class1/p2675.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BOJ/p2738.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BOJ/class1/p2738.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BOJ/p2743.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BOJ/class1/p2743.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BOJ/p2744.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BOJ/class1/p2744.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BOJ/p2754.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BOJ/class1/p2754.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BOJ/p27866.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BOJ/class1/p27866.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BOJ/p2884.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BOJ/class1/p2884.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BOJ/p2920.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BOJ/class1/p2920.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BOJ/p3052.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BOJ/class1/p3052.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BOJ/p8958.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BOJ/class1/p8958.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BOJ/p9086.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BOJ/class1/p9086.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +69,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Application.P1.executor": "Run",
+    "Application.P10809.executor": "Run",
+    "Application.P2231.executor": "Run",
     "Application.ex.executor": "Run",
+    "Application.p1018.executor": "Run",
+    "Application.p1018_1.executor": "Run",
     "Application.p10250.executor": "Run",
     "Application.p10809.executor": "Run",
     "Application.p1152.executor": "Run",
@@ -50,6 +84,8 @@
     "Application.p15964 (1).executor": "Run",
     "Application.p15964 (2).executor": "Run",
     "Application.p15964.executor": "Run",
+    "Application.p1978.executor": "Debug",
+    "Application.p2292.executor": "Debug",
     "Application.p2439.executor": "Run",
     "Application.p2475.executor": "Run",
     "Application.p2577.executor": "Run",
@@ -58,15 +94,18 @@
     "Application.p2744.executor": "Run",
     "Application.p2754.executor": "Run",
     "Application.p27866.executor": "Run",
+    "Application.p2798.executor": "Run",
     "Application.p2884.executor": "Run",
     "Application.p2920.executor": "Run",
     "Application.p3052.executor": "Run",
+    "Application.p4153.executor": "Run",
     "Application.p8958.executor": "Run",
     "Application.p9086.executor": "Run",
     "Application.stringReverse.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ShowUsagesActions.previewPropertyKey": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/santa/Desktop/study/Algorithm/algorithm",
     "node.js.detected.package.eslint": "true",
@@ -75,7 +114,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "/Users/santa/Desktop/study/Algorithm/algorithm/src/Main.java",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
@@ -92,13 +131,20 @@
       <command value="BufferedReader.java" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.p10809">
-    <configuration name="p10250" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ.p10250" />
+  <component name="RunManager" selected="Application.p2798">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P2231" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ.class2.P2231" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BOJ.*" />
+          <option name="PATTERN" value="BOJ.class2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p10809" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ.p10809" />
+    <configuration name="p1978" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ.class2.p1978" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BOJ.*" />
+          <option name="PATTERN" value="BOJ.class2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p2920" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ.p2920" />
+    <configuration name="p2292" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ.class2.p2292" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BOJ.*" />
+          <option name="PATTERN" value="BOJ.class2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,25 +178,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p3052" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ.p3052" />
+    <configuration name="p2798" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ.class2.p2798" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BOJ.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="p8958" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ.p8958" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BOJ.*" />
+          <option name="PATTERN" value="BOJ.class2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,11 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.p10809" />
-        <item itemvalue="Application.p10250" />
-        <item itemvalue="Application.p8958" />
-        <item itemvalue="Application.p3052" />
-        <item itemvalue="Application.p2920" />
+        <item itemvalue="Application.p2798" />
+        <item itemvalue="Application.p2292" />
+        <item itemvalue="Application.P2231" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.p1978" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +220,14 @@
       <workItem from="1708414432291" duration="3107000" />
       <workItem from="1708422865980" duration="3308000" />
       <workItem from="1708496256831" duration="106361000" />
-      <workItem from="1709192470896" duration="57887000" />
+      <workItem from="1709192470896" duration="66033000" />
+      <workItem from="1709967105176" duration="13422000" />
+      <workItem from="1710399636090" duration="42000" />
+      <workItem from="1710399696831" duration="19006000" />
+      <workItem from="1710720384909" duration="7698000" />
+      <workItem from="1711271611875" duration="2094000" />
+      <workItem from="1711329463065" duration="1810000" />
+      <workItem from="1711669474146" duration="9579000" />
     </task>
     <task id="LOCAL-00001" summary="p2475">
       <option name="closed" value="true" />
@@ -265,11 +305,32 @@
           <properties class="java.lang.NumberFormatException" package="java.lang" />
           <option name="timeStamp" value="18" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BOJ/class2/p1978.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <inline-watch fileUrl="file://$PROJECT_DIR$/src/BOJ/class2/p2292.java" line="13">
+        <watch expression="range" language="JAVA" />
+      </inline-watch>
+      <inline-watch fileUrl="file://$PROJECT_DIR$/src/BOJ/class2/p2292.java" line="12">
+        <watch expression="count" language="JAVA" />
+      </inline-watch>
+      <inline-watch fileUrl="file://$PROJECT_DIR$/src/BOJ/class2/p2292.java" line="20">
+        <watch expression="count" language="JAVA" />
+      </inline-watch>
+    </watches-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/algorithm$p10809.ic" NAME="p10809 Coverage Results" MODIFIED="1710420212612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>BOJ.*</FILTER>
+    </SUITE>
   </component>
 </project>

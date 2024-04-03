@@ -1,10 +1,10 @@
-package BOJ;
+package BOJ.class1;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class p10809 {
+public class P10809 {
     public static void main(String[] args) throws IOException {
         BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
         String input = bf.readLine(); // backjoon

@@ -1,16 +1,17 @@
-package BOJ;
+package BOJ.class1;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class p27866 {
+public class p11718 {
     public static void main(String[] args) throws IOException {
         BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
-        String input = bf.readLine();
-        int cnt = Integer.parseInt(bf.readLine());
 
-        System.out.println(input.charAt(cnt-1));
+        String line;
+        while ((line=bf.readLine()) != null) {
+            System.out.println(line);
+        }
 
     }
 }
